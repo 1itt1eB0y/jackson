@@ -1,4 +1,7 @@
 # Jackson销售管理系统
+# 许可证声明
+听闻GitHub开发的Copilot直接照抄Github已有代码并纳为己用并且意图商业化，爷我直接变更许可证为GPLv3虽然我知道这没有什么diao用，但是爷我还是要通过我变更LICENSE来表示反对！
+---
 ## 鸣谢
 采用`SlightPHP`框架，项目地址：https://github.com/hetao29/slightphp
 参考`smpss进销存管理系统`，项目地址：https://github.com/nullforyou/smpss
